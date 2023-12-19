@@ -33,6 +33,4 @@ def split_pdf(filename, output_folder):
     pdf_file.close()
 
 
-# split_pdf('D:/大数据管理部/询证函/20230831供应商往来对账函-天津-已盖章.pdf', 'D:/大数据管理部/询证函/split/天津/')
-# get_qrcode('hello', 'd:/')
-# get_barcode('JDVE08431183145', 'd:/')
+
